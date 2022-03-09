@@ -12,6 +12,8 @@ public class ToDeCharacter : MonoBehaviour
 
     public Rigidbody2D rb;
 
+    Vector2 Move;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,10 +24,12 @@ public class ToDeCharacter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         if (Input.GetKeyDown(KeyCode.Space))
         {
             _animator.SetTrigger("Attack");
         }
+
         
         
     }
