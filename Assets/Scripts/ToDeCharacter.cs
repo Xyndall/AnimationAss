@@ -60,4 +60,5 @@ public class ToDeCharacter : MonoBehaviour
         transform.localScale = Scaler;
     }
 
+    
 }

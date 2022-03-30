@@ -436,7 +436,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 692200740}
-  m_LocalRotation: {x: -0.00013570467, y: -0.9777369, z: 0.20978549, w: 0.0045528132}
+  m_LocalRotation: {x: -0.00013570418, y: -0.9777369, z: 0.20978549, w: 0.004552796}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -849,7 +849,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'right click for slice animation
 
-    lieft click for thrust animation'
+    left click for thrust animation'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1462,7 +1462,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1577139441}
-  m_LocalRotation: {x: 0.10870598, y: 0.0045278496, z: -0.00049514376, w: 0.99406356}
+  m_LocalRotation: {x: 0.10870598, y: 0.0045278496, z: -0.00049514364, w: 0.99406356}
   m_LocalPosition: {x: 1361.8904, y: 357.9395, z: 611.3159}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
